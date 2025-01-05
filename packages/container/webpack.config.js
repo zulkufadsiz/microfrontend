@@ -5,7 +5,7 @@ module.exports = {
     mode: 'development',
     entry: './index.js',
     devServer: {
-        port: 3001
+        port: 3000
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
